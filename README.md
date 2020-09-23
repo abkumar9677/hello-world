@@ -1,3 +1,3 @@
 # hello-world
 First repository
-Now new branch featur-1
+Now new branch feature
